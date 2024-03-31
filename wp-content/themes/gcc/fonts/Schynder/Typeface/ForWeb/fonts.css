@@ -1,0 +1,216 @@
+/*
+        This font software is the property of Commercial Type.
+
+        You may not modify the font software, use it on another website, or install it on a computer.
+
+        License information is available at http://commercialtype.com/eula
+        For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+
+        Copyright (C) 2020 Schwartzco Inc.
+        License: 2001-GQFVZC     
+*/
+
+
+@font-face {
+  font-family: 'Schnyder Wide XL Web';
+  src: url('SchnyderWideXL-Bold-Web.woff2') format('woff2'),
+       url('SchnyderWideXL-Bold-Web.woff') format('woff');
+  font-weight:  700;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.SchnyderWideXL-Bold-Web {
+  font-family: 'Schnyder Wide XL Web';
+  font-weight:  700;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Schnyder Wide XL Web';
+  src: url('SchnyderWideXL-Demi-Web.woff2') format('woff2'),
+       url('SchnyderWideXL-Demi-Web.woff') format('woff');
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.SchnyderWideXL-Demi-Web {
+  font-family: 'Schnyder Wide XL Web';
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Schnyder Wide XL Web';
+  src: url('SchnyderWideXL-Light-Web.woff2') format('woff2'),
+       url('SchnyderWideXL-Light-Web.woff') format('woff');
+  font-weight:  300;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.SchnyderWideXL-Light-Web {
+  font-family: 'Schnyder Wide XL Web';
+  font-weight:  300;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Schnyder Wide L Web';
+  src: url('SchnyderWideL-Bold-Web.woff2') format('woff2'),
+       url('SchnyderWideL-Bold-Web.woff') format('woff');
+  font-weight:  700;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.SchnyderWideL-Bold-Web {
+  font-family: 'Schnyder Wide L Web';
+  font-weight:  700;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Schnyder Wide L Web';
+  src: url('SchnyderWideL-Demi-Web.woff2') format('woff2'),
+       url('SchnyderWideL-Demi-Web.woff') format('woff');
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.SchnyderWideL-Demi-Web {
+  font-family: 'Schnyder Wide L Web';
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Schnyder Wide L Web';
+  src: url('SchnyderWideL-Light-Web.woff2') format('woff2'),
+       url('SchnyderWideL-Light-Web.woff') format('woff');
+  font-weight:  300;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.SchnyderWideL-Light-Web {
+  font-family: 'Schnyder Wide L Web';
+  font-weight:  300;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Schnyder Wide M Web';
+  src: url('SchnyderWideM-Bold-Web.woff2') format('woff2'),
+       url('SchnyderWideM-Bold-Web.woff') format('woff');
+  font-weight:  700;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.SchnyderWideM-Bold-Web {
+  font-family: 'Schnyder Wide M Web';
+  font-weight:  700;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Schnyder Wide M Web';
+  src: url('SchnyderWideM-Demi-Web.woff2') format('woff2'),
+       url('SchnyderWideM-Demi-Web.woff') format('woff');
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.SchnyderWideM-Demi-Web {
+  font-family: 'Schnyder Wide M Web';
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Schnyder Wide M Web';
+  src: url('SchnyderWideM-Light-Web.woff2') format('woff2'),
+       url('SchnyderWideM-Light-Web.woff') format('woff');
+  font-weight:  300;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.SchnyderWideM-Light-Web {
+  font-family: 'Schnyder Wide M Web';
+  font-weight:  300;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Schnyder Wide S Web';
+  src: url('SchnyderWideS-Bold-Web.woff2') format('woff2'),
+       url('SchnyderWideS-Bold-Web.woff') format('woff');
+  font-weight:  700;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.SchnyderWideS-Bold-Web {
+  font-family: 'Schnyder Wide S Web';
+  font-weight:  700;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Schnyder Wide S Web';
+  src: url('SchnyderWideS-Demi-Web.woff2') format('woff2'),
+       url('SchnyderWideS-Demi-Web.woff') format('woff');
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.SchnyderWideS-Demi-Web {
+  font-family: 'Schnyder Wide S Web';
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Schnyder Wide S Web';
+  src: url('SchnyderWideS-Light-Web.woff2') format('woff2'),
+       url('SchnyderWideS-Light-Web.woff') format('woff');
+  font-weight:  300;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.SchnyderWideS-Light-Web {
+  font-family: 'Schnyder Wide S Web';
+  font-weight:  300;
+  font-style:   normal;
+  font-stretch: normal;
+}
+

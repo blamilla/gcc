@@ -1,0 +1,13 @@
+.vscode/
+*.log
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+database/
+wp-config.php
+wp-content/uploads/
+wp-content/themes/gcc/gulpfile.js
+wp-content/themes/gcc/sass/
+wp-content/themes/gcc/node_modules/
+wp-content/themes/gcc/package-lock.json
+wp-content/themes/gcc/package.json

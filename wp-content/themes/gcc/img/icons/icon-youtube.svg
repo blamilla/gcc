@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="22px" viewBox="0 0 31 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Youtube</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Prototype" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BlogDetail" transform="translate(-644.000000, -2436.000000)" fill="#1A1A1A" fill-rule="nonzero">
+            <g id="footer" transform="translate(0.000000, 2312.000000)">
+                <g id="social-icons" transform="translate(523.000000, 119.000000)">
+                    <g id="Youtube" transform="translate(121.000000, 5.000000)">
+                        <path d="M31,17.4110429 C30.9928466,19.9423773 29.0142919,21.9925876 26.5714286,22 L4.42857143,22 C1.98570813,21.9925876 0.0071533792,19.9423773 0,17.4110429 L0,4.58895706 C0.0071533792,2.05762275 1.98570813,0.00741244676 4.42857143,0 L26.5714286,0 C29.0142919,0.00741244676 30.9928466,2.05762275 31,4.58895706 L31,17.4110429 Z M12.2957983,14.9411043 L20.677521,10.4466258 L12.2957983,5.93865031 L12.2957983,14.9411043 Z" id="youtube-2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
